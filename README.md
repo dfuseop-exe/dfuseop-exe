@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dfuseop-exe
+- 👋 Hi, I’m Sushant Shinde 
 - 👀 I’m interested in web development , android development etc..
 - 🌱 I’m currently learning full stack development
 - 📫 reach me at sushant.165.shinde@gmail.com
