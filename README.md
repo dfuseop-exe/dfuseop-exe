@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sushant Shinde 
 - 👀 I’m interested in web development , android development etc..
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning MERN Stack
 - 📫 reach me at sushant.165.shinde@gmail.com
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfuseop-exe&show_icons=true&theme=radical)
