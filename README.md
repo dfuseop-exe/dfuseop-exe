@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/dfuseop-exe/dfuseop-exe/main/banner.png"/>
+<img align="center" src="https://raw.githubusercontent.com/dfuseop-exe/dfuseop-exe/main/githubback.gif"/>
 
 <h1 align="center">Hi 👋, I'm Sushant Shinde</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
