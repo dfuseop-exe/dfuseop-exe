@@ -13,7 +13,7 @@
 
 - 📝 I regularly add my project-work on [https://sushantshinde.tech](https://sushantshinde.tech)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React And JS**
 
 - 📫 How to reach me **sushant.165.shinde@gmail.com**
 
