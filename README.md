@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dfuseop-exe&label=Profile%20views&color=0e75b6&style=flat" alt="dfuseop-exe" /> </p>
 
-- 🔭 I’m currently working on **API integration**
+- 🔭 I’m currently working on **Chat Application Using MERN with SocketIO**
 
 - 🌱 I’m currently learning **MERN Stack**
 
