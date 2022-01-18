@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sushant Shinde</h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast&center=true&width=500&height=50"></a>
-</p>
+<h3 align="center">Passionate MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dfuseop-exe&label=Profile%20views&color=0e75b6&style=flat" alt="dfuseop-exe" /> </p>
 
