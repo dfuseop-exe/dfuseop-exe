@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/dfuseop-exe/dfuseop-exe/main/background.png"/>
+<img align="center" src="https://raw.githubusercontent.com/dfuseop-exe/dfuseop-exe/main/Modern Professional Creative Business Agency LinkedIn Banner (4).png"/>
 
 <h1 align="center">Hi 👋, I'm Sushant Shinde</h1>
 
