@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Sushant Shinde</h1>
 
-<h3 align="center">Passionate MERN Stack Developer</h3>
+<h3 align="center">A Passionate Full Stack Web developer
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dfuseop-exe&label=Profile%20views&color=0e75b6&style=flat" alt="dfuseop-exe" /> </p>
 
